@@ -1,0 +1,30 @@
+.hero {
+    font-family: 'Kanit', sans-serif;
+}
+
+#logo-hero:hover{animation:heart 1.25s linear infinite}@keyframes heart{from{transform:scale(1)}10%{transform:scale(1.2)}}
+
+
+#container-content-index:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#container-content-searchcategory:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.me-poloy {
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+#editcontainer {
+    background-color: #023047;
+}
+
+#card-click:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
